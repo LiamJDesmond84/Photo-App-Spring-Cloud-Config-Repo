@@ -4,7 +4,7 @@ gateway:
 token:
    # 10 days
    expiration_time: 86400000
-   secret: heyN0w61984test2
+   secret: heyN0w61984
 
 spring:
   rabbitmq:
