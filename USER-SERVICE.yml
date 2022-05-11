@@ -1,3 +1,6 @@
+# For photo-app-user-service.  app.name=USER-SERVICE.
+# photo-app-user-service-> application.yml-> spring.profiles.active=USER-SERVICE.  Pulled from photo-app-cloud-config-server 
+
 #token:
    # 10 days
    #expiration_time: 8640000001
