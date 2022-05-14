@@ -13,3 +13,8 @@ spring:
      port: 5672
      username: guest
      password: guest
+  
+  datasource:
+     url: jdbc:mysql://localhost:3306/sergey_tutorial_user_service
+     username: root
+     password: '{cipher}172728bb7ad51af6c1069be9b82416a473a1760a0db44ee033ab0f4c52bf8a18'
