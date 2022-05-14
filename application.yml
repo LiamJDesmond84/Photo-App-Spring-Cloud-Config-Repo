@@ -17,4 +17,4 @@ spring:
   datasource:
      url: jdbc:mysql://localhost:3306/sergey_tutorial_user_service
      username: root
-     password: '{cipher}bd026b50a68902273e08d71460acfcebbca163fc05c0ad7c9646350233e8ee9a'
+     password: '{cipher}AQB9X3gUIN1U1hZBHYSXgsntnPAS8ov+jX2Ub3HSMoj2qlNJWNDXXaVq8+Wh264UZe8PS1YqcZVr/+5Hyggi+SUQZuh5tN30CEdZVScAlk0fhxs/BUHz6uLSdOVHUm0znNDCT0UC8oot2QCKJKT+INlin4MwPRXSKlop0Ys5v7PJr73luyy+czSNzO8JN+x33x1SljH1VH8YcBdefDB7/XIEd2R0ECpRNZURdhgWQH5o2w/TFUjVQ0eWd3Q0mi027HheAVyU79Q7k3+Kl9J9DwE4Q3+QduvvPOMTV0bblLYnwomBzmsc2oAYKzh4RB9yGRyaIwVY1KVqnaX2Dnx5jjUswkXJnWBSRqQise5Lw/yk9WluG1Yk6GSGxb1ofYENs5Y='
